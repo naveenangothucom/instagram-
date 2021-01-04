@@ -1,0 +1,101 @@
+USERID,NAME OF THE CANDIDATE,GENDER,AGE,SALARY,PURCHAGED
+EC001,hemalatha,Female,28,37000,0
+EC002,bindu,Female,27,8800,0
+EC003,padmini,Female,28,59000,0
+EC004,mounika,Female,32,86000,0
+EC005,sandya,Female,33,149000,1
+EC006,priyanka,Female,19,21000,0
+EC007,ch.priyanaka,Female,21,,0
+EC008,sudha,Female,26,35000,0
+EC009,anusha,Female,27,89000,0
+EC010,anantha lakshmi,Female,26,86000,0
+EC011,sunitha,Female,38,80000,0
+EC012,bavana,Female,,71000,0
+EC013,kshamai,Female,37,71000,0
+EC014,anilkumar,Male,38,61000,0
+EC015,,Male,37,55000,0
+EC016,joel,Male,42,80000,
+EC017,gopal,Male,40,57000,0
+EC018,vamsi,Male,,75000,0
+EC019,sairam,Male,36,52000,0
+EC020,,,40,59000,0
+EC021,baji,Male,41,59000,0
+EC022,pulsar anna,Male,36,75000,0
+EC023,sai krishna,Male,37,72000,0
+EC024,chaitanya,Male,40,75000,0
+EC025,ramudu,Male,35,53000,0
+EC026,prasad rao,Male,41,51000,0
+EC027,naga babu,Male,39,61000,0
+EC028,nageswarao,Male,42,65000,0
+EC029,gopinadh,Male,26,32000,0
+EC030,kadharai,Male,30,17000,0
+EC031,subhani,Male,26,84000,0
+EC032,pavan kumar,Male,31,58000,0
+EC033,ragavendra rao,Male,33,31000,0
+EC034,bunty,Male,30,87000,0
+EC035,pinku,Male,21,68000,0
+EC036,rajesh,Male,28,55000,0
+EC037,afzal,Male,23,63000,0
+EC038,amar,Male,20,82000,0
+EC039,krishna,Male,30,107000,1
+EC040,jitendra,Male,28,59000,0
+EC041,ravulu,Male,19,25000,0
+EC042,rayudu,Male,19,85000,0
+EC043,samba,Male,18,68000,0
+EC044,husur,Male,35,59000,0
+EC045,tippu,Male,30,89000,0
+EC046,kranthi,Male,34,25000,0
+EC047,soma sekhar,Male,24,89000,0
+EC048,phani,Male,27,96000,1
+EC049,kishore,Male,41,30000,0
+EC050,siddu,Male,29,61000,0
+EC051,ankam rao,Male,20,74000,0
+EC052,ammulu,Femalee,26,15000,0
+EC053,babbi,Male,41,45000,0
+EC054,koteswarao,Male,31,76000,0
+EC055,koti,Male,36,50000,0
+EC056,samba,Male,40,47000,0
+EC057,sandeep,Male,31,15000,0
+EC058,naidu,Male,46,59000,0
+EC059,murali,Male,29,75000,0
+EC060,narayan,Male,26,30000,0
+EC061,sitharamaya,Male,32,135000,1
+EC062,sathyanarayana,Male,32,100000,1
+EC063,mouli,Male,25,90000,0
+EC064,viswanadh,Male,37,33000,0
+EC065,sagar,Male,35,38000,0
+EC066,vidya,Male,33,69000,0
+EC067,veruu,Male,18,86000,0
+EC068,gopinadh,Male,22,55000,0
+EC069,goutham,Male,35,71000,0
+EC070,gouri yesob,Male,29,148000,1
+EC071,aadhi,Male,29,47000,0
+EC072,sankar ,Male,21,88000,0
+EC073,amaresh,Male,34,115000,0
+EC074,soujanaya,Male,26,118000,0
+EC075,sudhakar,Male,34,43000,0
+EC076,vasu,Male,34,72000,0
+EC077,chanti,Male,23,28000,0
+EC078,hemanth,Male,35,47000,0
+EC079,hanumanthu,Male,25,22000,0
+EC080,tiruputhaya,Male,24,23000,0
+EC081,krishna,Male,31,34000,0
+EC082,maruthi,Male,26,16000,0
+EC083,venkata sai,Male,31,71000,0
+EC084,sai praveen,Male,32,117000,1
+EC085,suvarana mukhi,Male,33,43000,0
+EC086,santhosh,Male,33,60000,0
+EC087,ramani,Male,31,66000,0
+EC088,ranganadh,Male,20,82000,0
+EC089,ramu,Male,33,41000,0
+EC090,ramanjaneyalu,Male,35,72000,0
+EC091,chaitanaya reddy,Male,28,32000,0
+EC092,sridhar,Male,24,84000,0
+EC093,srinu,Male,19,26000,0
+EC094,venkata ,Male,29,43000,0
+EC095,subbaya,Male,19,70000,0
+EC096,seriesh,Male,28,89000,0
+EC097,srivalli,Female,34,43000,0
+EC098,souwmya,Female,30,79000,0
+EC099,megamala,Female,20,36000,0
+EC100,vijay,Male,26,80000,0
